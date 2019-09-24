@@ -1,0 +1,92 @@
+.latest-consultation {
+  padding-top: 31px;
+  padding-bottom: 39px;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.latest-consultation__wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.latest-consultation__title {
+  font-size: 26px;
+  letter-spacing: 1px;
+  padding-bottom: 31px;
+}
+
+.latest-consultation__nav {
+  margin: 0 auto;
+  width: 246px;
+  padding-bottom: 18px;
+}
+
+.latest-consultation__link--1 {
+  font-size: 19px;
+  color: #767676;
+  padding-right: 21px;
+}
+
+.latest-consultation__link--2 {
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+  color: #214e9b;
+}
+
+.latest-consultation__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 61px;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.latest-consultation__list--time {
+  padding-left: 26px;
+  font-size: 14px;
+  color: #aaaaaa;
+}
+
+.latest-consultation__list--question {
+  width: 490px;
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+  font-size: 16px;
+  padding-left: 58px;
+  color: #214e9b;
+}
+
+.latest-consultation__list--answer {
+  width: 100px;
+  padding:  5px 0;
+  background: #fff4e9;
+  border-radius: 2px;
+  font-size: 14px;
+  text-align: center;
+  color: #81807f;
+}
+
+.latest-consultation__list--price {
+  font-size: 14px;
+  padding-left: 27px;
+  color: #aaaaaa;
+}
+
+.latest-consultation__list--number {
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+  font-size: 18px;
+  padding-left: 25px;
+}
+
+.latest-consultation__link {
+  margin: 0 auto;
+  padding-top: 33px;
+  width: 331px;
+}
+
+.latest-consultation__link a {
+  color: #214e9b;
+}

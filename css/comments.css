@@ -1,0 +1,40 @@
+.comments {
+  padding-top: 35px;
+  padding-bottom: 40px;
+}
+
+.comments__wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.comments__title {
+  padding-bottom: 33px;
+  font-family: "OpenSans-Light", "Arial", sans-serif;
+  font-size: 26px;
+  letter-spacing: 1.5px;
+}
+
+.comments__item {
+  width: 292px;
+  height: 146px;
+  border-right: 1px solid #e1e1e1;
+}
+
+.comments__item--text {
+  padding-right: 41px;
+  padding-left: 28px;
+  font-family: "OpenSans-Italic", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  color: #767676;
+}
+
+.comments__item--name {
+  padding-right: 40px;
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: right;
+  color: #214e9b;
+}

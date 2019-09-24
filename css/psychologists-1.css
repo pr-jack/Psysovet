@@ -1,0 +1,141 @@
+.psychologists-1 {
+  padding-bottom: 19px;
+}
+
+.psychologists-wrapper {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 998px;
+  padding-top: 32px;
+}
+
+.psychologists-online__title {
+  font-size: 26px;
+  letter-spacing: 1px;
+}
+
+.psychologists-online__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-top: 30px;
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+}
+
+.psychologists-online__list--1 {
+  margin: 0;
+  padding: 0;
+  width: 270px;
+  padding-right: 48px;
+}
+
+.psychologists-online__list--1 li:nth-child(2n+1) {
+  height: 50px;
+}
+
+.psychologists-online__list--1 li:nth-child(2n) {
+  height: 60px;
+  padding-bottom: 22px;
+}
+
+.psychologists-online__list--1 li:nth-child(3) {
+  padding-bottom: 30px;
+}
+
+.psychologists-online__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.psychologists-online__item--image {
+  padding-right: 21px;
+}
+
+.psychologists-online__item--link {
+  position: relative;
+  color: #cc3399;
+}
+
+.psychologists-online__item--link::before {
+  position: absolute;
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: #4caf50;
+  border-radius: 50%;
+  top: 9px;
+  left: -13px;
+}
+
+.psychologists-online__item--text {
+  padding-top: 6px;
+  font-size: 14px;
+}
+
+.psychologists-online__stats {
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+  color: #5e5e5e;
+}
+
+.psychologists-online__list--2 {
+  margin: 0;
+  padding: 0;
+  width: 290px;
+}
+
+.psychologists-online__list--2 li:nth-child(2n+1) {
+  height: 50px;
+}
+
+.psychologists-online__list--2 li:nth-child(2n) {
+  height: 60px;
+  padding-bottom: 22px;
+}
+
+.psychologists-online__list--2 li:nth-child(3) {
+  padding-bottom: 30px;
+}
+
+.useful {
+  padding-left: 116px;
+}
+
+.useful__title {
+  font-size: 26px;
+  letter-spacing: 1px;
+  padding-bottom: 32px;
+}
+
+.useful__list {
+  margin: 0;
+  padding: 0;
+  padding-left: 16px;
+}
+
+.useful__list li {
+  color: #214e9b;
+}
+
+.useful__item {
+  padding-bottom: 18px;
+}
+
+.useful__item--title {
+  margin-left: -8px;
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+}
+
+.useful__link {
+  text-decoration: none;
+}
+
+.useful__text {
+  margin-left: -8px;
+  width: 292px;
+  font-size: 15px;
+  line-height: 25px;
+  color: #aaaaaa;
+}

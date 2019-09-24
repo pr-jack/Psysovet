@@ -1,0 +1,108 @@
+.psychologists-2 {
+  padding-top: 32px;
+  padding-bottom: 38px;
+  background: #e9eef6;
+}
+
+.psychologists-2__wrapper {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.psychologists-2__title {
+  font-family: "OpenSans-Light", "Arial", sans-serif;
+  font-size: 26px;
+  letter-spacing: 1.5px;
+}
+
+.psychologists-2__title span {
+  color: #708cbb;
+}
+
+.psychologists-2__description {
+  width: 770px;
+  padding-top: 18px;
+  padding-bottom: 27px;
+  font-family: "OpenSans-Italic", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  color: #5e5e5e;
+}
+
+.psychologists-2__slider--card {
+  margin-right: 30px;
+  width: 165px;
+  background: #ffffff;
+  font-family: "OpenSans-SemiBold", "Arial", sans-serif;
+}
+
+.psychologists-2__slider--item {
+  margin: 0 auto;
+  padding-bottom: 18px;
+  width: 129px;
+  border-bottom: 1px solid #e1e1e1;
+}
+
+.psychologists-2__slider--image {
+  padding-top: 16px;
+}
+
+.psychologists-2__slider--link {
+  display: block;
+  position: relative;
+  padding-left: 11px;
+  padding-top: 13px;
+  text-decoration: none;
+  color: #cc3399;
+}
+
+.psychologists-2__slider--link:hover {
+  text-decoration: underline;
+}
+
+.psychologists-2__slider--link::before {
+  position: absolute;
+  content: "";
+  width: 5px;
+  height: 5px;
+  background: #4caf50;
+  border-radius: 50%;
+  top: 22px;
+  left: 1px;
+}
+
+.psychologists-2__slider--text {
+  padding-left: 11px;
+  padding-bottom: 57px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.psychologists-2__slider--stars {
+  width: 97px;
+  height: 15px;
+  background: url("../img/stars.png");
+  background-repeat: repeat;
+}
+
+.psychologists-2__slider--card-link {
+  display: block;
+  padding-top: 7px;
+  padding-left: 20px;
+  padding-bottom: 16px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #214e9b;
+}
+
+.psychologists-2__slider--card-link:hover {
+  text-decoration: underline;
+}
+
+.psychologists-2__slider-link {
+  display: block;
+  margin: 0 auto;
+  padding-top: 35px;
+  width: 115px;
+  color: #214e9b;
+}
